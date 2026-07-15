@@ -11,16 +11,7 @@ This project demonstrates skills in **SQL, Power BI, Data Modeling, DAX, Data Va
 ---
 
 ## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```text
-images/HR_Analytics_Dashboard.png
-```
-
-```markdown
-![Dashboard](images/HR_Analytics_Dashboard.png)
-```
+<img width="1327" height="747" alt="HR Data Analytics" src="https://github.com/user-attachments/assets/7b1c859c-0061-46a6-9a76-ee3c6a6cd813" />
 
 ---
 
