@@ -1,4 +1,15 @@
-# 📊 HR Analytics Dashboard with SQL Validation
+<div align="center">
+  <h1>
+    📊 HR Data Analytics Dashboard with SQL Validation
+  </h1>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Modeling -orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power%20Query-DAX-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power BI-Interactive%20Dashboard-purple?style=flat-square"/>
+</p>
 
 ## 📌 Project Overview
 
